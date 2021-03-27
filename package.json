@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-general",
+  "version": "1.0.0",
+  "description": "KeenV's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KeenV",
+  "license": "ISC",
+  "peerDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/eslint-parser": "^7.13.10",
+    "eslint": "^7.22.0"
+  }
+}
