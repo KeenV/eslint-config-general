@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-general",
+  "name": "@keenv/eslint-config-general",
   "version": "1.0.0",
   "description": "KeenV's ESLint config",
   "main": "index.js",
@@ -12,5 +12,17 @@
     "@babel/core": "^7.13.10",
     "@babel/eslint-parser": "^7.13.10",
     "eslint": "^7.22.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeenV/eslint-config-general.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "bugs": {
+    "url": "https://github.com/KeenV/eslint-config-general/issues"
+  },
+  "homepage": "https://github.com/KeenV/eslint-config-general#readme"
 }
