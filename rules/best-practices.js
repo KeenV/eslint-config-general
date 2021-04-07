@@ -169,7 +169,7 @@ module.exports = {
     'prefer-promise-reject-errors': ['error', { allowEmptyReject: true }],
 
     // require `var` declarations be placed at the top of their containing scope
-    'vars-on-top': 'error',
+    // 'vars-on-top': 'error',
 
     // require parentheses around immediate `function` invocations
     'wrap-iife': ['error', 'inside', { functionPrototypeMethods: true }],
