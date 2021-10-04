@@ -14,6 +14,7 @@ module.exports = {
     'eslint:recommended',
     './rules/best-practices',
     './rules/errors',
+    './rules/es6',
     './rules/strict',
     './rules/style',
     './rules/variables',
