@@ -2,25 +2,31 @@
   "name": "@keenv/eslint-config-general",
   "version": "1.0.1",
   "description": "KeenV's ESLint config",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [
+    "eslint"
+  ],
+  "homepage": "https://github.com/KeenV/eslint-config-general#readme",
+  "bugs": {
+    "url": "https://github.com/KeenV/eslint-config-general/issues"
   },
-  "author": "KeenV",
-  "license": "ISC",
-  "peerDependencies": {
-    "eslint": "^7.22.0"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KeenV/eslint-config-general.git"
   },
-  "keywords": [
-    "eslint"
+  "license": "ISC",
+  "author": "KeenV",
+  "files": [
+    "rules",
+    "index.js",
+    "package.json",
+    "README.md"
   ],
-  "bugs": {
-    "url": "https://github.com/KeenV/eslint-config-general/issues"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/KeenV/eslint-config-general#readme"
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
