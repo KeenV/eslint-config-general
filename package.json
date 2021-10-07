@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/KeenV/eslint-config-general.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "KeenV",
   "files": [
     "rules",
