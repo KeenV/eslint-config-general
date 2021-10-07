@@ -18,7 +18,7 @@ module.exports = {
     }],
     'no-const-assign': 'error',
     'no-dupe-class-members': 'error',
-    'no-duplicate-imports': ['error', { includeExports: true }],
+    'no-duplicate-imports': ['off', { includeExports: true }],
     'no-new-symbol': 'error',
     'no-restricted-exports': ['off', {
       restrictedNamedExports: [
