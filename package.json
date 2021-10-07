@@ -1,6 +1,6 @@
 {
   "name": "@keenv/eslint-config-general",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "KeenV's ESLint config",
   "keywords": [
     "eslint"
